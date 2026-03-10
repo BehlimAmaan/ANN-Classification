@@ -15,7 +15,7 @@ st.write("Predict whether a bank customer is likely to churn based on their acco
 
 model = tf.keras.models.load_model('D:\Deep_Learning_project\ANN_Classification\models\model.h5')
 
-with open(r'D:\Deep_Learning_project\ANN_Classification\models\Lable_encoder','rb') as file:
+with open(r'D:\Deep_Learning_project\ANN_Classification\models\Lable_encoder.pkl','rb') as file:
     label_encoder_gender = pickle.load(file)
 
 with open(r'D:\Deep_Learning_project\ANN_Classification\models\One_Hot_Encoder.pkl','rb') as file:
