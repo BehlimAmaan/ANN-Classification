@@ -1,9 +1,5 @@
-ipykernel
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorboard
 streamlit
 tensorflow
+numpy
+pandas
+scikit-learn
