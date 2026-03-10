@@ -1,5 +1,9 @@
-streamlit==1.32.0
 tensorflow==2.15.0
-pandas
-numpy
+pandas 
+numpy 
 scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+ipykernel
