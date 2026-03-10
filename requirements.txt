@@ -4,6 +4,6 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
+streamlit==1.3.2
 scikeras
 ipykernel
